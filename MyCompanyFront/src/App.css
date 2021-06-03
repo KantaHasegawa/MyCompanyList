@@ -1,0 +1,12 @@
+.nav{
+  color: black;
+  font-family: 'Philosopher',serif;
+  font-size: 1.5rem;
+}
+
+.page-title{
+  font-size: 5rem;
+  font-family: 'Philosopher',serif;
+  text-transform: uppercase;
+  font-weight: normal;
+}
