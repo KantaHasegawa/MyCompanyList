@@ -3,8 +3,7 @@
 フロントにReact,バックエンドAPIにRails,認証にAuth0を使用したSPAのToDoアプリケーションです  
 インフラはNetlifyとherokuです  
 就活用に企業メモが欲しかったので自分で作りました  
-ReactもといSPAを作るのは初めてなんですが設計が難しいですね  
-次はちゃんとコンポーネント化を意識して開発します。。
+ReactもといSPAを作るのは初めてなんですが難しいですね  
 
 ![image](https://user-images.githubusercontent.com/66783124/120598009-b6671900-c480-11eb-8f3f-e796ed4274a9.png)
 
